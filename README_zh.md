@@ -1,10 +1,16 @@
-# Clearup Mess Room
+# Cleanup Mess Room
 
 Claude Code 插件卸载工具。
 
+## 为什么需要这个插件
+
+当你安装了很多编程思想和编排插件后，每次输入都会触发多个插件或技能，导致混乱、污染，得不到想要的代码。你可以用 `/clear` 来清理上下文，但问题依然存在。
+
+**Cleanup Mess Room** 帮助您安全地删除未使用的插件和 skills，保持 Claude Code 环境整洁专注。
+
 ## 描述
 
-**Clearup Mess Room** 帮助您安全地删除系统中未使用的 Claude Code 插件和 skills。它会在独立 skills 和插件包目录中进行智能搜索。
+**Cleanup Mess Room** 帮助您安全地删除系统中未使用的 Claude Code 插件和 skills。它会在独立 skills 和插件包目录中进行智能搜索。
 
 ## 功能特点
 

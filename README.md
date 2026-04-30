@@ -1,10 +1,16 @@
-# Clearup Mess Room
+# Cleanup Mess Room
 
 A Claude Code plugin for uninstalling plugins and skills.
 
+## Why
+
+When you have many programming thought plugins and orchestration skills installed, each message you type can trigger multiple plugins or skills, causing confusion and pollution. You can use `/clear` to clean the context, but the chaos persists.
+
+**Cleanup Mess Room** helps you safely remove unused plugins and skills, keeping your Claude Code environment clean and focused.
+
 ## Description
 
-**Clearup Mess Room** helps you safely remove unused Claude Code plugins and skills from your system. It provides intelligent search across both standalone skills and bundled plugin directories.
+**Cleanup Mess Room** helps you safely remove unused Claude Code plugins and skills from your system. It provides intelligent search across both standalone skills and bundled plugin directories.
 
 ## Features
 
