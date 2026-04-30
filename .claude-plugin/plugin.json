@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "name_for_human": "Clearup Mess Room",
+  "name_for_model": "clearup-mess-room",
+  "description_for_human": "Claude Code 插件卸载工具 - 安全删除未使用的插件和 skills",
+  "description_for_model": "Provides the ability to uninstall plugins and skills from Claude Code. First searches in ~/.claude/skills for standalone skills, then in ~/.claude/plugins for bundled plugins. When a skill is found inside a plugin, asks whether to remove the entire plugin. Protects cache, data, and marketplaces directories from accidental deletion.",
+  "skills": [
+    {
+      "name": "plugin-uninstall",
+      "path": "skills/plugin-uninstall/SKILL.md"
+    }
+  ]
+}
