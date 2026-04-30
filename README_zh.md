@@ -14,6 +14,25 @@ Claude Code 插件卸载工具。
 - **模糊匹配**：支持大小写不敏感的部分名称匹配
 - **清晰反馈**：删除前显示所有匹配的候选项
 
+## 安装
+
+### 快速安装
+
+```bash
+/plugin marketplace add https://github.com/DaoYoung/clearup-mess-room
+/plugin install clearup-mess-room
+```
+
+### 手动安装
+
+```bash
+# 1. 克隆到 marketplaces 目录
+git clone https://github.com/DaoYoung/clearup-mess-room.git \
+  ~/.claude/plugins/marketplaces/clearup-mess-room
+
+# 2. 添加到 known_marketplaces.json（使用 /plugin 命令会自动处理）
+```
+
 ## 工作原理
 
 ```
