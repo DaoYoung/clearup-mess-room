@@ -17,8 +17,8 @@ A Claude Code plugin for uninstalling plugins and skills.
 ## Installation
 
 ```bash
-/plugin marketplace add https://github.com/DaoYoung/clearup-mess-room
-/plugin install clearup-mess-room
+/plugin marketplace add https://github.com/DaoYoung/cleanup-mess-room
+/plugin install cleanup-mess-room
 ```
 
 ## How It Works
@@ -77,7 +77,7 @@ Example:
 ## Files
 
 ```
-clearup-mess-room/
+cleanup-mess-room/
 ├── package.json           # Plugin metadata
 ├── conductor.json         # Claude Code plugin manifest
 ├── LICENSE               # MIT License
