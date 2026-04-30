@@ -16,21 +16,9 @@ Claude Code 插件卸载工具。
 
 ## 安装
 
-### 快速安装
-
 ```bash
 /plugin marketplace add https://github.com/DaoYoung/clearup-mess-room
 /plugin install clearup-mess-room
-```
-
-### 手动安装
-
-```bash
-# 1. 克隆到 marketplaces 目录
-git clone https://github.com/DaoYoung/clearup-mess-room.git \
-  ~/.claude/plugins/marketplaces/clearup-mess-room
-
-# 2. 添加到 known_marketplaces.json（使用 /plugin 命令会自动处理）
 ```
 
 ## 工作原理
