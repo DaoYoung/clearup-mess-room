@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "clearup-mess-room",
+  "name": "cleanup-mess-room",
   "description": "Claude Code plugin for uninstalling plugins and skills - safely clean up unused extensions",
   "owner": {
     "name": "DaoYoung",
@@ -8,7 +8,7 @@
   },
   "plugins": [
     {
-      "name": "clearup-mess-room",
+      "name": "cleanup-mess-room",
       "description": "A Claude Code plugin for uninstalling plugins and skills. Helps you safely remove unused Claude Code extensions with intelligent search across skills and plugins directories.",
       "version": "1.0.0",
       "author": {
@@ -16,7 +16,7 @@
       },
       "source": "./",
       "category": "utilities",
-      "homepage": "https://github.com/DaoYoung/clearup-mess-room",
+      "homepage": "https://github.com/DaoYoung/cleanup-mess-room",
       "tags": [
         "plugin-management",
         "cleanup",
