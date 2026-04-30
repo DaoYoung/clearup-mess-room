@@ -16,21 +16,9 @@ A Claude Code plugin for uninstalling plugins and skills.
 
 ## Installation
 
-### Quick Install
-
 ```bash
 /plugin marketplace add https://github.com/DaoYoung/clearup-mess-room
 /plugin install clearup-mess-room
-```
-
-### Manual Install
-
-```bash
-# 1. Clone to marketplaces
-git clone https://github.com/DaoYoung/clearup-mess-room.git \
-  ~/.claude/plugins/marketplaces/clearup-mess-room
-
-# 2. Add to known_marketplaces.json (automatic if using /plugin command)
 ```
 
 ## How It Works
