@@ -17,8 +17,8 @@ Claude Code 插件卸载工具。
 ## 安装
 
 ```bash
-/plugin marketplace add https://github.com/DaoYoung/clearup-mess-room
-/plugin install clearup-mess-room
+/plugin marketplace add https://github.com/DaoYoung/cleanup-mess-room
+/plugin install cleanup-mess-room
 ```
 
 ## 工作原理
@@ -77,7 +77,7 @@ Claude Code 插件卸载工具。
 ## 文件结构
 
 ```
-clearup-mess-room/
+cleanup-mess-room/
 ├── package.json           # 插件元数据
 ├── conductor.json         # Claude Code 插件清单
 ├── LICENSE               # MIT 许可证
